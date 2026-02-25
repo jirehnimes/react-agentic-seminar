@@ -1,0 +1,1 @@
+- Read all instructions in .agents folder.
