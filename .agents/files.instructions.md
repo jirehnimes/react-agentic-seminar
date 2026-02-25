@@ -18,4 +18,5 @@ src/components/$component-path/$component-name/
 # Directories Structure
 
 1. `app` directory for Next.js pages.
+  1.1 When creating a new page, create a new directory inside its parent directory (by default it's `app`) and add an `page.tsx` file inside it.
 2. `components` directory for reusable components.
